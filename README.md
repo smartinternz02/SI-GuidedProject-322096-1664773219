@@ -6,4 +6,4 @@ In our society, we have people with disabilities. The technology is developing d
 
 The project aims to develop a system that converts the sign language into a human hearing voice in the desired language to convey a message to normal people. We are making use of a convolution neural network to create a model that is trained on different hand gestures. A Web Application is built which uses this model. This application enables deaf and dumb people to convey their information using signs which get converted to humanunderstandable language.
 
-Video demo link : https://drive.google.com/file/d/1zck951uLcdLF3RBYUU9pBUSuwvJEybld/view?usp=sharing
+Video demo link : https://drive.google.com/file/d/1A8ukucjSchtnGHQyA8ydECajjJL6dZjB/view?usp=sharing
